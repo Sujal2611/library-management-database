@@ -27,6 +27,8 @@ The project consists of six interconnected tables:
 5. Loans
 6. Fines
 
+<img width="1415" height="821" alt="ER Diagram" src="https://github.com/user-attachments/assets/6d37481f-74f0-4600-aac3-760fadcf4260" />
+
 ## SQL Concepts Implemented
 - CREATE DATABASE and CREATE TABLE
 - INSERT and SELECT statements
